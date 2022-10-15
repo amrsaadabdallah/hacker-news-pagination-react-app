@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hacker-news-pagination-react-app/static/css/main.aaab863f.css",
+    "main.js": "/hacker-news-pagination-react-app/static/js/main.24562bf9.js",
+    "index.html": "/hacker-news-pagination-react-app/index.html",
+    "main.aaab863f.css.map": "/hacker-news-pagination-react-app/static/css/main.aaab863f.css.map",
+    "main.24562bf9.js.map": "/hacker-news-pagination-react-app/static/js/main.24562bf9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aaab863f.css",
+    "static/js/main.24562bf9.js"
+  ]
+}
